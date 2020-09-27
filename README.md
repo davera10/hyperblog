@@ -10,6 +10,6 @@ un blog increible
 * El verdadero amor por las buenas prácticas
 * creado por Daniela Velez
 * incluye ejemplos en linux, windows mc
-
+* Disponible para todas las edades
 
 
