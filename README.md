@@ -8,6 +8,8 @@ un blog increible
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas prácticas
+* creado por Daniela Velez
+
 
 
 
