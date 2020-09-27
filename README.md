@@ -9,7 +9,7 @@ un blog increible
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas prácticas
 * creado por Daniela Velez
-
+* incluye ejemplos en linux, windows mc
 
 
 
